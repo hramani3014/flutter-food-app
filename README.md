@@ -8,4 +8,5 @@ This is a flutter food app.
 
 ## 📱 App Preview
 
-(https://github.com/user-attachments/assets/df93e94b-4463-47c8-85be-3ce7e03c9d52)
+https://github.com/user-attachments/assets/c1a4d8c0-8440-48ea-8bf7-a90ce1db6d8d
+
