@@ -8,5 +8,5 @@ This is a flutter food app.
 
 ## 📱 App Preview
 
-🎬 [Watch App Video](https://raw.githubusercontent.com/hramani3014/flutter-food-app/master/Video/App%20Video.mp4)
+🎬 https://github.com/user-attachments/assets/4c7947d6-874b-4555-b150-8f8f86d85abb
 
